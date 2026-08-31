@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name="fl_btn_finance" text="SALGSPANTLÅN"/>
+		<text name="fl_new_finance_title" text="Ny finansieringsavtale"/>
+		<text name="fl_choose_deposit" text="Velg egenkapital"/>
+		<text name="fl_choose_duration" text="Velg avtalens løpetid i år"/>
+		<text name="fl_option_one" text="Alternativ én"/>
+		<text name="fl_option_two" text="Alternativ to"/>
+		<text name="fl_option_three" text="Alternativ tre"/>
+		<text name="fl_option_four" text="Alternativ fire"/>
+		<text name="fl_header_monthly" text="Månedlig terminbeløp"/>
+		<text name="fl_header_final_fee" text="Termingebyr"/>
+		<text name="fl_header_total_cost" text="Totalkostnad"/>
+		<text name="fl_header_interest" text="Rentesats"/>
+		<text name="fl_header_settlement_cost" text="Innbytteverdi"/>
+		<text name="fl_header_months_left" text="Gjenværende måneder"/>
+		<text name="fl_choose_option" text="Velg hvilket alternativ du vil kjøpe med"/>
+		<text name="fl_not_enough_money_deposit" text="Du må betale minst %s i egenkapital for å kjøpe dette objektet med salgspantlån."/>
+		<text name="fl_deal_complete" text="Din finansieringsavtale for %s er fullført."/>
+		<text name="fl_deal_complete_early" text="Finansieringsavtalen ble innfridd fordi du solgte kjøretøyet."/>
+		<text name="fl_disclaimer_line_one" text="* Betalinger innkreves automatisk og kan føre til overtrekk eller restanse."/>
+		<text name="fl_disclaimer_line_two" text="** Hvis du selger objektet før finansieringsavtalen er fullført må du betale hele det gjenværende beløpet."/>
+		<text name="fl_disclaimer_line_three" text="*** Egenkapitalen trekkes umiddelbart. De månedlige terminbeløpene starter neste måned. Termingebyret forfaller måneden etter det siste månedlige terminbeløpet."/>
+		<text name="fl_btn_settle_early" text="Innfri før tiden"/>
+		<text name="fl_header_remaining_cost" text="Gjenværende beløp"/>
+		<text name="fl_header_current_deals" text="Løpende avtaler"/>
+		<text name="fl_header_hire_purchasing" text="Finansiering med salgspant"/>
+		<text name="fl_header_item_name" text="Objekt"/>
+		<text name="fl_not_enough_money_settlement" text="Du har ikke nok penger til å innfri denne avtalen."/>
+		<text name="fl_deal_not_found" text="Avtalen ble ikke funnet. Den kan allerede være innfridd."/>
+		<text name="fl_confirm_settle_early" text="Er du sikker på at du vil innfri avtalen? %s vil bli trukket fra kontoen din umiddelbart."/>
+		<text name="fl_settle_early_complete" text="Du har innfridd finansieringen og eier nå objektet fullt ut."/>
+	</texts>
+</l10n>
