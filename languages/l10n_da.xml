@@ -2,7 +2,7 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name="fl_btn_finance" text="AFBETALINGSKØB"/>
+		<text name="fl_btn_finance" text="KØB PÅ AFBETALING"/>
 		<text name="fl_new_finance_title" text="Ny afbetalingsaftale"/>
 		<text name="fl_choose_deposit" text="Vælg udbetalingsbeløb"/>
 		<text name="fl_choose_duration" text="Vælg aftalens løbetid i år"/>
@@ -16,7 +16,7 @@
 		<text name="fl_header_interest" text="Rentesats"/>
 		<text name="fl_header_settlement_cost" text="Indfrielsesbeløb"/>
 		<text name="fl_header_months_left" text="Resterende måneder"/>
-		<text name="fl_choose_option" text="Vælg hvilken mulighed du vil købe me"/>
+		<text name="fl_choose_option" text="Vælg hvilken mulighed du vil købe med"/>
 		<text name="fl_not_enough_money_deposit" text="Du skal betale mindst %s i udbetaling for at købe denne genstand på afbetaling."/>
 		<text name="fl_deal_complete" text="Din afbetalingsaftale for %s er afsluttet."/>
 		<text name="fl_deal_complete_early" text="Din afbetalingsaftale blev indfriet, fordi du solgte køretøjet."/>
