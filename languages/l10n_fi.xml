@@ -26,7 +26,7 @@
 		<text name="fl_btn_settle_early" text="Maksa ennenaikaisesti"/>
 		<text name="fl_header_remaining_cost" text="Jäljellä oleva määrä"/>
 		<text name="fl_header_current_deals" text="Voimassa olevat sopimukset"/>
-		<text name="fl_header_hire_purchasing" text="Osamaksukauppa"/>
+		<text name="fl_header_hire_purchasing" text="Osta osamaksulla"/>
 		<text name="fl_header_item_name" text="Kohde"/>
 		<text name="fl_not_enough_money_settlement" text="Sinulla ei ole tarpeeksi rahaa tämän sopimuksen lunastamiseen."/>
 		<text name="fl_deal_not_found" text="Sopimusta ei löytynyt. Se on saattanut jo tulla lunastetuksi."/>
