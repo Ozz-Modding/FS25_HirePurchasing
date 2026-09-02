@@ -2,7 +2,7 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name="fl_btn_finance" text="AVBETALNINGSKREDIT"/>
+		<text name="fl_btn_finance" text="KÖP PÅ AVBETALNING"/>
 		<text name="fl_new_finance_title" text="Nytt avbetalningsavtal"/>
 		<text name="fl_choose_deposit" text="Välj kontantinsats"/>
 		<text name="fl_choose_duration" text="Välj avtalstid i år"/>
@@ -26,7 +26,7 @@
 		<text name="fl_btn_settle_early" text="Lös i förtid"/>
 		<text name="fl_header_remaining_cost" text="Återstående belopp"/>
 		<text name="fl_header_current_deals" text="Aktuella avtal"/>
-		<text name="fl_header_hire_purchasing" text="Avbetalningsköp"/>
+		<text name="fl_header_hire_purchasing" text="Köp på avbetalning"/>
 		<text name="fl_header_item_name" text="Objekt"/>
 		<text name="fl_not_enough_money_settlement" text="Du har inte tillräckligt med pengar för att lösa detta avtal."/>
 		<text name="fl_deal_not_found" text="Avtalet kunde inte hittas. Det kan redan ha lösts."/>
