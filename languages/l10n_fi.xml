@@ -2,7 +2,7 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name="fl_btn_finance" text="OSAMAKSURAHOITUS"/>
+		<text name="fl_btn_finance" text="OSTA OSAMAKSULLA"/>
 		<text name="fl_new_finance_title" text="Uusi osamaksusopimus"/>
 		<text name="fl_choose_deposit" text="Valitse käsiraha"/>
 		<text name="fl_choose_duration" text="Valitse sopimusaika vuosina"/>
