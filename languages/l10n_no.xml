@@ -2,7 +2,7 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name="fl_btn_finance" text="SALGSPANTLÅN"/>
+		<text name="fl_btn_finance" text="KJØP PÅ FINANSIERING"/>
 		<text name="fl_new_finance_title" text="Ny finansieringsavtale"/>
 		<text name="fl_choose_deposit" text="Velg egenkapital"/>
 		<text name="fl_choose_duration" text="Velg avtalens løpetid i år"/>
