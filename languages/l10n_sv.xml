@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name="fl_btn_finance" text="KÖP PÅ AVBETALNING"/>
+		<text name="fl_new_finance_title" text="Nytt avbetalningsavtal"/>
+		<text name="fl_choose_deposit" text="Välj kontantinsats"/>
+		<text name="fl_choose_duration" text="Välj avtalstid i år"/>
+		<text name="fl_option_one" text="Alternativ ett"/>
+		<text name="fl_option_two" text="Alternativ två"/>
+		<text name="fl_option_three" text="Alternativ tre"/>
+		<text name="fl_option_four" text="Alternativ fyra"/>
+		<text name="fl_header_monthly" text="Månadsavgift"/>
+		<text name="fl_header_final_fee" text="Slutavgift"/>
+		<text name="fl_header_total_cost" text="Total kostnad"/>
+		<text name="fl_header_interest" text="Räntesats"/>
+		<text name="fl_header_settlement_cost" text="Lösenbelopp"/>
+		<text name="fl_header_months_left" text="Återstående månader"/>
+		<text name="fl_choose_option" text="Välj vilket alternativ du vill köpa med"/>
+		<text name="fl_not_enough_money_deposit" text="Du måste betala minst %s i kontantinsats för att köpa detta objekt på avbetalning."/>
+		<text name="fl_deal_complete" text="Ditt avbetalningsavtal för %s har slutförts."/>
+		<text name="fl_deal_complete_early" text="Avbetalningsavtalet löstes i förtid eftersom du sålde fordonet."/>
+		<text name="fl_disclaimer_line_one" text="* Betalningar dras automatiskt och kan leda till övertrassering eller restans."/>
+		<text name="fl_disclaimer_line_two" text="** Om du säljer objektet innan avbetalningsavtalet är slutfört måste du betala hela det återstående beloppet."/>
+		<text name="fl_disclaimer_line_three" text="*** Kontantinsatsen dras omedelbart. Månadsavgifterna påbörjas nästa månad. Slutavgiften förfaller månaden efter den sista månadsavgiften."/>
+		<text name="fl_btn_settle_early" text="Lös i förtid"/>
+		<text name="fl_header_remaining_cost" text="Återstående belopp"/>
+		<text name="fl_header_current_deals" text="Aktuella avtal"/>
+		<text name="fl_header_hire_purchasing" text="Köp på avbetalning"/>
+		<text name="fl_header_item_name" text="Objekt"/>
+		<text name="fl_not_enough_money_settlement" text="Du har inte tillräckligt med pengar för att lösa detta avtal."/>
+		<text name="fl_deal_not_found" text="Avtalet kunde inte hittas. Det kan redan ha lösts."/>
+		<text name="fl_confirm_settle_early" text="Är du säker på att du vill lösa avtalet? %s kommer att dras från ditt konto omedelbart."/>
+		<text name="fl_settle_early_complete" text="Du har löst avbetalningen och äger nu objektet helt och hållet."/>
+	</texts>
+</l10n>

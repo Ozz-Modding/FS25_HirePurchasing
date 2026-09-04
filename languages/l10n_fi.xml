@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name="fl_btn_finance" text="OSTA OSAMAKSULLA"/>
+		<text name="fl_new_finance_title" text="Uusi osamaksusopimus"/>
+		<text name="fl_choose_deposit" text="Valitse käsiraha"/>
+		<text name="fl_choose_duration" text="Valitse sopimusaika vuosina"/>
+		<text name="fl_option_one" text="Vaihtoehto yksi"/>
+		<text name="fl_option_two" text="Vaihtoehto kaksi"/>
+		<text name="fl_option_three" text="Vaihtoehto kolme"/>
+		<text name="fl_option_four" text="Vaihtoehto neljä"/>
+		<text name="fl_header_monthly" text="Kuukausierä"/>
+		<text name="fl_header_final_fee" text="Viimeinen erä"/>
+		<text name="fl_header_total_cost" text="Kokonaiskustannukset"/>
+		<text name="fl_header_interest" text="Korkokanta"/>
+		<text name="fl_header_settlement_cost" text="Lunastushinta"/>
+		<text name="fl_header_months_left" text="Jäljellä olevat kuukaudet"/>
+		<text name="fl_choose_option" text="Valitse millä vaihtoehdolla ostat"/>
+		<text name="fl_not_enough_money_deposit" text="Tarvitset vähintään %s käsirahan ostaaksesi tämän kohteen osamaksulla."/>
+		<text name="fl_deal_complete" text="Osamaksusopimuksesi kohteesta %s on päättynyt."/>
+		<text name="fl_deal_complete_early" text="Osamaksusopimuksesi tilitettiin ennenaikaisesti, koska myit ajoneuvon."/>
+		<text name="fl_disclaimer_line_one" text="* Maksut veloitetaan automaattisesti, mikä voi johtaa tilin ylitykseen tai maksurästeihin."/>
+		<text name="fl_disclaimer_line_two" text="** Jos myyt kohteen ennen osamaksusopimuksen päättymistä, sinun on maksettava koko jäljellä oleva summa."/>
+		<text name="fl_disclaimer_line_three" text="*** Käsiraha veloitetaan välittömästi. Kuukausierät alkavat ensi kuussa. Viimeinen erä erääntyy viimeistä kuukausierää seuraavana kuukautena."/>
+		<text name="fl_btn_settle_early" text="Maksa ennenaikaisesti"/>
+		<text name="fl_header_remaining_cost" text="Jäljellä oleva määrä"/>
+		<text name="fl_header_current_deals" text="Voimassa olevat sopimukset"/>
+		<text name="fl_header_hire_purchasing" text="Osta osamaksulla"/>
+		<text name="fl_header_item_name" text="Kohde"/>
+		<text name="fl_not_enough_money_settlement" text="Sinulla ei ole tarpeeksi rahaa tämän sopimuksen lunastamiseen."/>
+		<text name="fl_deal_not_found" text="Sopimusta ei löytynyt. Se on saattanut jo tulla lunastetuksi."/>
+		<text name="fl_confirm_settle_early" text="Oletko varma, että haluat maksaa sopimuksen ennenaikaisesti? %s veloitetaan tililtäsi välittömästi."/>
+		<text name="fl_settle_early_complete" text="Olet maksanut osamaksun loppuun ja omistat nyt kohteen kokonaan."/>
+	</texts>
+</l10n>

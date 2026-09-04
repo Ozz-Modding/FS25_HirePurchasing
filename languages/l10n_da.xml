@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name="fl_btn_finance" text="KØB PÅ AFBETALING"/>
+		<text name="fl_new_finance_title" text="Ny afbetalingsaftale"/>
+		<text name="fl_choose_deposit" text="Vælg udbetalingsbeløb"/>
+		<text name="fl_choose_duration" text="Vælg aftalens løbetid i år"/>
+		<text name="fl_option_one" text="Mulighed et"/>
+		<text name="fl_option_two" text="Mulighed to"/>
+		<text name="fl_option_three" text="Mulighed tre"/>
+		<text name="fl_option_four" text="Mulighed fire"/>
+		<text name="fl_header_monthly" text="Månedlig ydelse"/>
+		<text name="fl_header_final_fee" text="Slutgebyr"/>
+		<text name="fl_header_total_cost" text="Samlede omkostninger"/>
+		<text name="fl_header_interest" text="Rentesats"/>
+		<text name="fl_header_settlement_cost" text="Indfrielsesbeløb"/>
+		<text name="fl_header_months_left" text="Resterende måneder"/>
+		<text name="fl_choose_option" text="Vælg hvilken mulighed du vil købe med"/>
+		<text name="fl_not_enough_money_deposit" text="Du skal betale mindst %s i udbetaling for at købe denne genstand på afbetaling."/>
+		<text name="fl_deal_complete" text="Din afbetalingsaftale for %s er afsluttet."/>
+		<text name="fl_deal_complete_early" text="Din afbetalingsaftale blev indfriet, fordi du solgte køretøjet."/>
+		<text name="fl_disclaimer_line_one" text="* Betalinger opkræves automatisk og kan medføre overtræk eller restance."/>
+		<text name="fl_disclaimer_line_two" text="** Hvis du sælger genstanden, før afbetalingsaftalen er slut, skal du betale det fulde resterende beløb."/>
+		<text name="fl_disclaimer_line_three" text="*** Udbetalingen trækkes med det samme. De månedlige ydelser starter næste måned. Slutgebyret forfalder måneden efter den sidste månedlige ydelse."/>
+		<text name="fl_btn_settle_early" text="Indfri før tid"/>
+		<text name="fl_header_remaining_cost" text="Resterende beløb"/>
+		<text name="fl_header_current_deals" text="Nuværende aftaler"/>
+		<text name="fl_header_hire_purchasing" text="Køb på afbetaling"/>
+		<text name="fl_header_item_name" text="Genstand"/>
+		<text name="fl_not_enough_money_settlement" text="Du har ikke penge nok til at indfrie denne aftale."/>
+		<text name="fl_deal_not_found" text="Aftalen kunne ikke findes. Den kan allerede være indfriet."/>
+		<text name="fl_confirm_settle_early" text="Er du sikker på, at du vil indfrie aftalen? %s vil blive trukket fra din konto med det samme."/>
+		<text name="fl_settle_early_complete" text="Du har indfriet afbetalingen og ejer nu genstanden fuldt ud."/>
+	</texts>
+</l10n>
